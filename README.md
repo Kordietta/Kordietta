@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hejcia ❤
+Uczę się jak testować oprogramowanie z [CHERRY-IT.pl](https://cherry-it.pl) 🍒 <br />
+i zamieszczam [tu](https://github.com/Kordietta/Crowdtesting-Cherry-IT) efekty swojej pracy 
 
 <!--
 **Kordietta/Kordietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
